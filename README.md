@@ -4,7 +4,7 @@ My name is t3chyy and I am a 15 year old kid who plays with little bits of code.
 from Minecraft mods to random desktop applications.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=T3chyyOfficial&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3chyyOfficial&langs_count=50&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3chyyOfficial&langs_count=40&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact Me
 
